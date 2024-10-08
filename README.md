@@ -1,6 +1,10 @@
 # 💫 About Me:
 Hi, I'm Achraf! A passionate full-stack developer with a strong focus on backend development. I'm proficient in JavaScript, Golang, React, Next.js, Vue.js, Tailwind CSS, and Node.js. I'm always eager to explore new technologies and continually improve my skills.<br>
 
+<div>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdelilahOu&layout=compact&count_private=true&show_icons=true&theme=transparent"/>
+  <img height="180px" src="https://github-readme-stats.vercel.app/api?username=AbdelilahOu&count_private=true&show_icons=true&show_icons=true&rank_icon=github&theme=transparent"/>
+</div>
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/achraf_elhachemy/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/AchrafElhachem) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@AchrafElhachem) 
